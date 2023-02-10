@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>仓库</title>
+    <g id="--" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工作台" transform="translate(-26.000000, -736.000000)" fill-rule="nonzero">
+            <g id="仓库" transform="translate(26.000000, 736.000000)">
+                <rect id="矩形" fill="#1890FF" opacity="0" x="0" y="0" width="22" height="22"></rect>
+                <path d="M20,12.4375 L19.0555555,12.4375 L19.0555555,19 L3.94444445,19 L3.94444445,12.4375 L3,12.4375 L11.5,4 L20,12.4375 Z M5.83333333,12.25 L5.83333333,17.125 L17.1666667,17.125 L17.1666667,12.25 L11.5,6.62499999 L5.83333333,12.25 Z M9.70555555,10.5625 L13.4833333,10.5625 L13.4833333,12.4375 L9.70555555,12.4375 L9.70555555,10.5625 L9.70555555,10.5625 Z" id="形状" fill="#525252"></path>
+            </g>
+        </g>
+    </g>
+</svg>
